@@ -20,8 +20,8 @@ When I'm not solving challenges or ethically breaking systems 😉, you can find
 
 ### 📫 Get in Touch
 Interested in collaborating or chatting about security? Let’s connect!
-- ✉️ Email: [YourEmail@example.com](mailto:elhoyyy@gmail.com)
-- 🐙 GitHub: [YourGitHub](https://github.com/Elhoyyy)
+- ✉️ Email: [elhoyyy@gmail.com](mailto:elhoyyy@gmail.com)
+- 🐙 GitHub: [Elhoyyy](https://github.com/Elhoyyy)
 
 ---
 

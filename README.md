@@ -20,7 +20,6 @@ When I'm not solving challenges or ethically breaking systems 😉, you can find
 
 ### 📫 Get in Touch
 Interested in collaborating or chatting about security? Let’s connect!
-- ✉️ Email: [elhoyyy@gmail.com](mailto:elhoyyy@gmail.com)
 - 🐙 GitHub: [Elhoyyy](https://github.com/Elhoyyy)
 
 ---
